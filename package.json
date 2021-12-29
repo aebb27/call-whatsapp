@@ -1,0 +1,13 @@
+{
+	"name": "side-project",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"ejecutar": "node index.js"
+	},
+	"keywords": [],
+	"author": "Ariel Batista <arielbatista37@gmail.com>",
+	"license": "MIT"
+}
